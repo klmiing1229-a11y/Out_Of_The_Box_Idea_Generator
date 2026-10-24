@@ -1,6 +1,6 @@
 # The moves
 
-`think_out_of_the_box` uses these eight moves to step off the usual path. Each one is a question you ask the problem.
+`think_out_of_the_box` uses these ten moves to step off the usual path. Each one is a question you ask the problem.
 The examples are small and made up, to show the shape of the move, not to prove it works.
 
 ## 1. Invert it
@@ -51,6 +51,19 @@ The examples are small and made up, to show the shape of the move, not to prove 
 **Example:** A team sends reports nobody replies to. **Idea:** stop sending them for a month and see who asks.
 **Trap:** removing something that people rely on without telling them. Test on a small scale first.
 
+## 9. Let other people's effort produce your result
+
+**Ask:** Who already wants something I can give: money, status, content to post, a skill, a free tool? What raw material that I usually keep could I hand them? What do they get for each result they bring?
+**Example:** A language tutor wants more students. Her best raw material is her lesson clips. Students who want to earn pocket money can cut the clips into short videos, post them with their own link, and earn one free lesson for every new student who books through it. **Idea:** give five current students the raw clips and a link each, and count bookings per link for two weeks.
+**Shape it came from:** a creator who lets fans clip his footage freely and pays them a commission on every sign-up through their link. The fans want to earn online, and promoting the product is how they do it, so their motive and the product's promise are the same thing.
+**Trap:** "start a referral program" with no named group, no motive, no raw material and no per-result reward. That is the obvious answer. Also: never pay mainly for recruiting more promoters (that is the shape of a pyramid scheme), and paid posts must say they are paid.
+
+## 10. Build the loop
+
+**Ask:** How could the output of one round become the input of the next? What would make each user, sale or piece of work create the next one without me starting it?
+**Example:** A quiz app needs new questions every week. **Idea:** every student who scores 100% on a set writes one new question for the next set, credited with their name. The bank grows with each round and the authors share their own question.
+**Trap:** a loop that only works on paper because nobody gets anything for turning the wheel. Name what each person gets at each turn.
+
 ---
 
 ## Fake out of the box (do not count these)
@@ -65,3 +78,5 @@ These sound fresh but fit almost any problem. If an idea is one of these, it bel
 - "Tell a better story."
 - "Collect data first."
 - "Do a survey."
+- "Start a referral or affiliate program." (with no named group, motive, raw material and per-result reward)
+- "Go freemium." / "Encourage user-generated content."

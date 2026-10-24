@@ -41,10 +41,12 @@ If more exist, end the list with "and more of the same kind". Keep the full ten 
 ### Step 3: Name the frame
 
 List 3 to 5 assumptions hidden inside the problem as it was stated: who it is for, what "success" means, what is treated as fixed, what the usual order of steps is, what counts as allowed.
+Always check three that hide best, and list any that hold: **who does the work** (usually "me, alone"), **who pays whom** (usually "the customer pays me, and I pay for marketing"), and **what is kept private** (usually "my product, footage, method or data").
 
 ### Step 4: Break the frame
 
-Use the eight moves below. Make candidates with **at least five different moves**, and make 8 to 10 candidates quietly. Choose the moves that fit this problem; do not use the same five every time.
+Use the ten moves below. Make candidates with **at least five different moves**, and make 8 to 10 candidates quietly. Choose the moves that fit this problem; do not use the same five every time.
+When the problem is about reach, customers, sales, users or growth, moves 9 and 10 must be among the five.
 Each candidate must break one of the hidden assumptions from Step 3.
 
 1. **Invert it.** How would I make this worse on purpose? Flip each answer into something you can do or sell.
@@ -55,6 +57,8 @@ Each candidate must break one of the hidden assumptions from Step 3.
 6. **Make the problem disappear.** What would have to be true for it not to exist? What created it?
 7. **Give it to the opposite person.** Who is on the other side? What if they ran it, or did the job?
 8. **Subtract.** What if I stopped something instead of adding something? What is the smallest version?
+9. **Let other people's effort produce your result.** Who already wants something you can give (money, status, content to post, a skill, a free tool)? Hand them raw material you would normally keep (footage, a file, a template, data) and a share of each result they bring. Many people do the work and are paid only per result, instead of you doing it alone and paying up front. Best when their motive matches your product's promise, so that spreading it is itself a use of it.
+10. **Build the loop.** How could the output of one round be the input of the next? Make each user, sale or piece of work create the next one (each buyer becomes a seller, each result becomes the next piece of content, each answer becomes the next question bank), so growth does not depend on you starting every round.
 
 The file `lenses.md` beside this one has a short example and a trap for each move. It is a bonus: if you cannot read it, carry on silently from the list above. Never mention reading a file in your answer.
 
@@ -65,6 +69,8 @@ For each candidate:
 - Drop it if it cannot be tested in under a week, needs more money, time or skill than the user stated, or is too vague to act on.
 - Drop it if it passes the **swap test** badly: you could paste it onto an unrelated problem unchanged ("build a community", "gamify it", "use social media", "add AI"). Sharpen it into something specific to this problem, or drop it.
 - For health, legal, safety or problems that risk a lot of money, a candidate may only be a paper test or a small safe step, and you add one line saying to ask a professional before acting.
+- **Leverage check (moves 9 and 10).** A plain "referral program", "affiliate link", "freemium" or "user-generated content" is obvious. It only counts as out of the box when it names all four: the **specific group** doing the work, the **motive they already have**, the **raw material** you hand them, and **what they get per result**. Missing one: sharpen it or move it to the obvious list.
+- **Fair-deal check.** Pay for real results (a sale, an active user), never mainly for recruiting more recruiters: that is the shape of a pyramid scheme. Paid promotion must be disclosed as paid. Drop any candidate that only works if the people doing the work are misled.
 
 ### Step 6: Output exactly this shape, then stop
 
@@ -87,14 +93,16 @@ What most AI replies would say. Listed on purpose; some may be exactly right.
 **Move used:** <which move, and what it did here>
 **Assumption broken:** <which hidden assumption from the list above this idea drops>
 **Nearest obvious answer:** #<n> from the list above, and **how this differs:** <the change in what happens or who does it, in one sentence>
+**Who does the work:** <"you alone", or the group, why they would, and what they get per result>
+**Does it loop:** <"no", or how one round feeds the next>
 **Cheapest test (under one week):** <a specific action, with a rough cost>
 **Biggest risk:** <one sentence>
 
 ### 2. Leap: <short title>
-(same six lines)
+(same eight lines)
 
 ### 3. Weird but testable: <short title>
-(same six lines)
+(same eight lines)
 
 **Filtered:** <N> candidates dropped (untestable, over your limits, or too generic), <M> moved to the obvious list.
 **Honesty:** these are not among the obvious answers above. That does not mean nobody has tried them.
@@ -105,7 +113,8 @@ Next? (go deeper on 1 / 2 / 3, make a week plan from one, pair one with an obvio
 Rules for the output:
 - **Stretch** is a small step off the path, **Leap** is a big step, **Weird but testable** looks odd but can be tried cheaply. Fewer than three is fine if only two survive; say so. Never pad.
 - **The difference line is a real check.** If you cannot state a different mechanism (not a smaller, stricter, timed, scheduled, tracked or rewarded version), the idea is obvious: move it to the obvious list and use the next best candidate. Read all three ideas again against the obvious list, including the ones you moved there, before you write the answer.
-- Each idea is concrete: who does what, first. Keep each idea under about 70 words.
+- Each idea is concrete: who does what, first. Keep each idea under about 90 words.
+- **Leverage rule.** When the problem is about reach, customers, sales, users or growth, at least one of the three ideas must move the work off the user (other people do it, paid per result) or build a loop. If none survives the filter, say so in the Filtered line instead of forcing one.
 - The three ideas must use three different moves and break three different hidden assumptions.
 - **Stretch** may sit near an obvious answer but must still change the mechanism.
 - **Leap** must change the goal, the buyer or user, or the resource being used, not only the tactic.
