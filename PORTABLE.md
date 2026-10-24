@@ -13,22 +13,31 @@ If the problem has one right answer (a lookup, maths), say so and just answer it
    each, with a short clause for when it is still the right call. KEEP them, labelled as obvious. The standard
    repertoire (measure, shrink, schedule, track, reward, review, simplify, discount, partner, refer, plan for
    the lapse) and anything with a famous name or a book behind it (Pomodoro, Feynman technique...) counts as obvious.
-2. Hidden assumptions. List 3 to 5 assumptions inside how I stated the problem.
+2. Hidden assumptions. List 3 to 5 assumptions inside how I stated the problem. Always check: who does
+   the work (usually "me, alone"), who pays whom, and what is kept private.
 3. Break them. Make 8 to 10 candidates using at least five different moves: invert it; remove the biggest
    constraint; add an absurd constraint; borrow an exact mechanism from a distant field; solve a different
-   problem; make the problem disappear; give it to the opposite person; subtract.
+   problem; make the problem disappear; give it to the opposite person; subtract; let other people's effort
+   produce your result (a group that already wants something you can give gets your raw material and a
+   reward per result, ideally when spreading it is itself a use of the product); build the loop (each user,
+   sale or piece of work creates the next). For reach, customers, sales or growth problems, the last two
+   moves must be among the five.
 4. Filter. If a candidate has the same core mechanism as an obvious answer (a smaller, stricter, timed,
    scheduled, tracked or rewarded version counts as the same), move it to the obvious list. Drop what cannot
    be tested in under a week, needs more money, time or skill than I said, or fits any problem unchanged
    ("build a community", "gamify it"). For health, legal, safety or big money problems, keep tests small and
-   tell me to ask a professional.
+   tell me to ask a professional. A plain referral, affiliate, freemium or user-content idea is obvious
+   unless it names the group, their existing motive, the raw material handed over and the reward per result.
+   Pay per real result, never mainly for recruiting recruiters (pyramid shape); paid posts must say so.
 5. Reply in this shape and stop:
    Problem (one line) / Limits I used /
    "Obvious answers" (numbered, each with when it is still right) /
    "Hidden assumptions" (bullets) /
    "Answers out of the box": at most three, labelled Stretch, Leap, Weird but testable. Each has: Idea,
-   Move used, Assumption broken, Nearest obvious answer (#n) and how this differs, Cheapest test (under one
-   week, with a rough cost), Biggest risk. Three different moves, three different assumptions. Leap must
+   Move used, Assumption broken, Nearest obvious answer (#n) and how this differs, Who does the work (you
+   alone, or who, why and what they get per result), Does it loop, Cheapest test (under one week, with a
+   rough cost), Biggest risk. For reach or growth problems, at least one idea moves the work off me or
+   builds a loop. Three different moves, three different assumptions. Leap must
    change the goal, the buyer or the resource, not only the tactic. If you cannot state a different
    mechanism from the nearest obvious answer, replace the idea. /
    Filtered (how many dropped, how many moved to the obvious list) /

@@ -42,7 +42,7 @@ The full run is in [`examples/bakery-flat-sales.md`](examples/bakery-flat-sales.
 
 1. It lists the 5 to 8 obvious answers a thorough AI reply would give, and keeps them, labelled.
 2. It names the hidden assumptions inside how you stated the problem.
-3. It breaks them with at least five forced moves: invert it, remove the biggest constraint, add an absurd one, borrow a mechanism from a distant field, solve a different problem, make the problem disappear, give it to the opposite person, subtract. See [`lenses.md`](think_out_of_the_box/lenses.md).
+3. It breaks them with at least five forced moves: invert it, remove the biggest constraint, add an absurd one, borrow a mechanism from a distant field, solve a different problem, make the problem disappear, give it to the opposite person, subtract, let other people's effort produce your result, build the loop. See [`lenses.md`](think_out_of_the_box/lenses.md).
 4. It checks each candidate against the obvious list. Same mechanism in a new outfit goes to the obvious list. Untestable, over your limits or generic ideas are dropped.
 5. It returns a Stretch, a Leap and a Weird but testable idea, each naming its nearest obvious answer and how it truly differs.
 6. It never says an idea is new. The only claim is: it is not among the obvious answers listed above.
@@ -52,7 +52,7 @@ The full run is in [`examples/bakery-flat-sales.md`](examples/bakery-flat-sales.
 | File | Use it for |
 | --- | --- |
 | [`think_out_of_the_box/SKILL.md`](think_out_of_the_box/SKILL.md) | The complete skill, written for Claude Code. |
-| [`think_out_of_the_box/lenses.md`](think_out_of_the_box/lenses.md) | The eight moves, each with a small example and a trap. |
+| [`think_out_of_the_box/lenses.md`](think_out_of_the_box/lenses.md) | The ten moves, each with a small example and a trap. |
 | [`PORTABLE.md`](PORTABLE.md) | A short, model neutral version for custom or project instructions. |
 | [`examples/`](examples/) | Three real runs: a flat bakery, no friends in a new city, a slow Python script. |
 | [`tests/`](tests/) | How it was tested, what failed along the way, and the raw runs. |
